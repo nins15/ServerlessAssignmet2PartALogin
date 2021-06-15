@@ -1,0 +1,7 @@
+flask
+flask-login
+Flask-WTF
+email_validator
+mysql-connector-python
+pymysql
+SQLAlchemy==1.3.20
